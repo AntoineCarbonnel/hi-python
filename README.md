@@ -16,3 +16,9 @@ Classic Rock, Paper and scissors game
 
 ## ex04_hangman
 Guess the word! who dont know this game ?
+
+
+
+## POST-SCRIPTUM
+
+Si ya deux contributeurs pour le projet c'est parce que c'est mes deux comptes github héhéh
